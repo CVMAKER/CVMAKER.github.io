@@ -1,0 +1,27 @@
+.footer-paragraph{
+	background-color: grey;
+	color: white;
+}
+
+.bottom-links{
+	list-style-type: none;
+}
+
+.link_to_col2{
+	background-color: yellow;
+}
+
+.panel-danger{
+	height: 200px;
+	
+}
+
+.header-top{
+	background-color: grey;
+}
+
+embed{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+}
