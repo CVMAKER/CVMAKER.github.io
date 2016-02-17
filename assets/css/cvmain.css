@@ -1,0 +1,72 @@
+
+
+.bottom-links{
+	list-style-type: none;
+}
+
+.link_to_col2{
+	background-color: yellow;
+}
+
+.panel-danger{
+	height: 200px;
+	
+}
+
+/*  header   */
+.header-top{
+	background-color: #996600;
+	color: white;
+}
+
+.navbar-inverse{
+	background-color: #e69900;
+	padding: 0;
+	margin: 0;
+	border-top: 3px solid black;
+	color: black;
+}
+
+#top-menu{
+	color: black;
+}
+
+#top-menu:hover{
+	color: white;
+	font-style: bold;
+}
+
+
+/*  STEPS   */
+.step{
+	height: 300px;
+	border-top: 3px solid #e69900;
+	border-bottom: 3px solid #e69900; 
+}
+
+
+
+
+/*  STEPS   */
+
+
+
+/*    */
+embed{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+}
+
+
+.footer {
+    background-color: #1f2e2e;
+	bottom: 0;
+    color: white;
+    height: 300px;
+    left: 0;
+    position: relative; 
+    font-size: small;
+    width:100%;
+}
+
